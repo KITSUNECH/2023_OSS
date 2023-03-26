@@ -30,7 +30,6 @@
 #!/usr/bin/env bash
 echo "----------"
 echo "name :"
-echo
 
 echo "----------"
 echo "student id :"
